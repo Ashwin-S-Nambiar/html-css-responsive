@@ -1,2 +1,2 @@
 # A website done for practicing responsive CSS.
-Simple website for a NFT purchase.
+Simple website for practicing responsive design.
