@@ -1,6 +1,6 @@
 # 🖥️ Responsive Web Design Practice
 
-Live: https://ashwin-s-nambiar.github.io/html-css-responsive/
+**Live: https://ashwin-s-nambiar.github.io/html-css-responsive/**
 
 ***A website made for responsive web design practice by me.***
 
